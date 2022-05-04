@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA59A3D12822EF7800DAA6C3 /* CustomBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA59A3D02822EF7800DAA6C3 /* CustomBaseViewController.swift */; };
 		BAA1CC1B2820E67300BDCAFD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA1CC1A2820E67300BDCAFD /* AppDelegate.swift */; };
 		BAA1CC1D2820E67300BDCAFD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA1CC1C2820E67300BDCAFD /* SceneDelegate.swift */; };
 		BAA1CC1F2820E67300BDCAFD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA1CC1E2820E67300BDCAFD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BA59A3D02822EF7800DAA6C3 /* CustomBaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBaseViewController.swift; sourceTree = "<group>"; };
 		BAA1CC172820E67300BDCAFD /* StoriesNavigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoriesNavigation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAA1CC1A2820E67300BDCAFD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAA1CC1C2820E67300BDCAFD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		BAA1CC0E2820E67300BDCAFD = {
 			isa = PBXGroup;
 			children = (
+				BA59A3D02822EF7800DAA6C3 /* CustomBaseViewController.swift */,
 				BAA1CC192820E67300BDCAFD /* StoriesNavigation */,
 				BAA1CC182820E67300BDCAFD /* Products */,
 			);
@@ -140,6 +143,7 @@
 			files = (
 				BAA1CC1F2820E67300BDCAFD /* ViewController.swift in Sources */,
 				BAA1CC1B2820E67300BDCAFD /* AppDelegate.swift in Sources */,
+				BA59A3D12822EF7800DAA6C3 /* CustomBaseViewController.swift in Sources */,
 				BAA1CC1D2820E67300BDCAFD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
